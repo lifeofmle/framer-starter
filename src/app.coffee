@@ -12,7 +12,7 @@ print "Device height: #{deviceWidth}"
 
 # Set background
 bg = new BackgroundLayer
-  backgroundColor: "#7DDD11"
+  backgroundColor: "blue"
 
 # Create PageComponent
 page = new PageComponent
